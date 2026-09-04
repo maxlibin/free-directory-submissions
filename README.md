@@ -250,6 +250,7 @@ A bulk list of launch/submission sites — 894 free, 324 paid, each with a DR. *
 | FourSquare | Startup / product directory | 60 | [submit](https://foursquare.com/) |
 | r/webdev | Community | 60 | [submit](https://www.reddit.com/r/webdev) |
 | AIAI.Tools | AI tool directory | 59 | [submit](https://aiai.tools/submit-ai-tool) |
+| SaaSCity | Startup / product directory | 59 | [submit](https://saascity.io/submit) |
 | Cloud Findr | Startup / product directory | 59 | [submit](https://cloudfindr.co) |
 | Freebie Supply | Design gallery | 59 | [submit](https://freebiesupply.com) |
 | Arstechnica | Press / publication | 59 | [submit](http://arstechnica.com/civis/) |
