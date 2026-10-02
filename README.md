@@ -13,7 +13,7 @@ dead, paywalled, or login-gated sites — this one isn't.)
 
 ---
 
-## ✅ Submit instantly — no login, no badge, no payment (13)
+## ✅ Submit instantly — no login, no badge, no payment (14)
 
 | # | Directory | Submit link | DA/DR |
 |---|-----------|-------------|-------|
@@ -30,25 +30,26 @@ dead, paywalled, or login-gated sites — this one isn't.)
 | 11 | Startup Collections | https://startupcollections.com/submit-product/ | ~DR 25 |
 | 12 | Launchpedia | https://launchpedia.co/submit/ | ? |
 | 13 | Joinly | https://joinly.xyz/submit-startup | ? |
+| 14 | Phyco | https://phyco.org/submit | ? |
 
 ## ✅ No login, but add their free badge to your site (6)
 
 | # | Directory | Submit link | DA/DR |
 |---|-----------|-------------|-------|
-| 14 | Twelve Tools | https://twelve.tools/submit-your-tool | **DR 81** |
-| 15 | TheSaaSDir | https://thesaasdir.com/submit/ | ? |
-| 16 | Toolpilot | https://www.toolpilot.ai/pages/submit-your-ai-tool | ~DR 77 |
-| 17 | AI Toolz Dir | https://www.aitoolzdir.com/submit | DR ~27–63 |
-| 18 | Sitelike | https://www.sitelike.org/add-site/ | ~DR 71 |
-| 19 | Submit AI Tools | https://submitaitools.org/submit-your-ai-tool/ | DA 61 |
+| 15 | Twelve Tools | https://twelve.tools/submit-your-tool | **DR 81** |
+| 16 | TheSaaSDir | https://thesaasdir.com/submit/ | ? |
+| 17 | Toolpilot | https://www.toolpilot.ai/pages/submit-your-ai-tool | ~DR 77 |
+| 18 | AI Toolz Dir | https://www.aitoolzdir.com/submit | DR ~27–63 |
+| 19 | Sitelike | https://www.sitelike.org/add-site/ | ~DR 71 |
+| 20 | Submit AI Tools | https://submitaitools.org/submit-your-ai-tool/ | DA 61 |
 
 ## ✅ No login, general/low-SEO (3)
 
 | # | Directory | Submit link | DA/DR |
 |---|-----------|-------------|-------|
-| 20 | One Page Love | https://onepagelove.com/submit | ? |
-| 21 | Brownbook | https://www.brownbook.net/add-business | DA ~61 |
-| 22 | SoMuch | https://www.somuch.com/submit-links/ | ? |
+| 21 | One Page Love | https://onepagelove.com/submit | ? |
+| 22 | Brownbook | https://www.brownbook.net/add-business | DA ~61 |
+| 23 | SoMuch | https://www.somuch.com/submit-links/ | ? |
 
 ---
 
