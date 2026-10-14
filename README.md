@@ -958,6 +958,7 @@ A bulk list of launch/submission sites — 894 free, 324 paid, each with a DR. *
 | trybestaitools | AI tool directory | 0 | [submit](https://www.trybestaitools.com/) |
 
 | StarTap | Startup / product directory | ? | [submit](https://startap.cc/play) |
+| SitePatent | Startup / product directory | ? | [submit](https://sitepatent.com/submit) |
 
 </details>
 
