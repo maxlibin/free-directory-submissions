@@ -1291,5 +1291,6 @@ A bulk list of launch/submission sites — 894 free, 324 paid, each with a DR. *
 | Tech Greet | Press / publication | 0 | [submit](http://www.techgreet.com/submit-your-tech-startup/) |
 | ToolsForCreators | Startup / product directory | 0 | [submit](https://toolsforcreators.com/) |
 | Untapped Founders | Startup / product directory | 0 | [submit](https://untappedfounders.org/) |
+| Public Prompts | AI tool directory | ? | [submit](https://www.publicprompts.art/submit) |
 
 </details>
