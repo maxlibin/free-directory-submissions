@@ -260,6 +260,7 @@ A bulk list of launch/submission sites — 894 free, 324 paid, each with a DR. *
 | Hotfrog | Startup / product directory | 58 | [submit](https://hotfrog.com) |
 | Layers.to | Design gallery | 58 | [submit](https://layers.to) |
 | No Code Founders | Community | 58 | [submit](https://nocodefounders.com) |
+| AIHuntList | Startup / product directory | 57 | [submit](https://aihuntlist.com) |
 | Hive Index | Community | 57 | [submit](https://thehiveindex.com/submit) |
 | Launch Llama Tools | Startup / product directory | 57 | [submit](https://tools.launchllama.co/) |
 | Startup Bonsai Tools | Startup / product directory | 57 | [submit](https://startupbonsai.com/) |
@@ -478,6 +479,7 @@ A bulk list of launch/submission sites — 894 free, 324 paid, each with a DR. *
 | The Tech Blog | Startup / product directory | 36 | [submit](https://www.thetechblock.com/) |
 | TradeIndia | Startup / product directory | 36 | [submit](https://www.tradeindia.com/) |
 | Tupalo net | Startup / product directory | 36 | [submit](https://www.tupalo.net/) |
+| AITrustList | Startup / product directory | 35 | [submit](https://aitrustlist.com) |
 | AI Database | AI tool directory | 35 | [submit](https://aidatabase.com/submit) |
 | AI Hub | Press / publication | 35 | [submit](https://aihub.org/contribute/) |
 | AI Tools Guide | AI tool directory | 35 | [submit](https://aitoolsguide.com) |
@@ -959,6 +961,7 @@ A bulk list of launch/submission sites — 894 free, 324 paid, each with a DR. *
 
 | StarTap | Startup / product directory | ? | [submit](https://startap.cc/play) |
 | CodeTrendy | Startup / product directory | ? | [submit](https://codetrendy.com/submit) |
+| SitePatent | Startup / product directory | ? | [submit](https://sitepatent.com/submit) |
 
 </details>
 
@@ -1292,5 +1295,6 @@ A bulk list of launch/submission sites — 894 free, 324 paid, each with a DR. *
 | Tech Greet | Press / publication | 0 | [submit](http://www.techgreet.com/submit-your-tech-startup/) |
 | ToolsForCreators | Startup / product directory | 0 | [submit](https://toolsforcreators.com/) |
 | Untapped Founders | Startup / product directory | 0 | [submit](https://untappedfounders.org/) |
+| Public Prompts | AI tool directory | ? | [submit](https://www.publicprompts.art/submit) |
 
 </details>
