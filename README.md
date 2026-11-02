@@ -958,6 +958,7 @@ A bulk list of launch/submission sites — 894 free, 324 paid, each with a DR. *
 | Tools Hub AI | AI tool directory | 0 | [submit](https://toolshubai.com/) |
 | TrustList | AI tool directory | 0 | [submit](https://www.trustlist.ai/) |
 | trybestaitools | AI tool directory | 0 | [submit](https://www.trybestaitools.com/) |
+| RoboDebut | Startup / product directory (agent API; homepage badge; manual review) | ? | [submit](https://robodebut.com/submit-with-a-coding-agent) |
 
 | StarTap | Startup / product directory | ? | [submit](https://startap.cc/play) |
 | CodeTrendy | Startup / product directory | ? | [submit](https://codetrendy.com/submit) |
